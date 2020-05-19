@@ -20,8 +20,8 @@ int main()
         cout <<"================================================================"<< endl;
         cout <<"Dobrodosli u ultimate kalkulator! Odaberite vrstu kalkulatora"<< endl;
         cout <<"================================================================"<< endl;
-        cout <<"Odabire broj 1 za matematicki kalkulator" << endl;
-        cout <<"Odabire broj 2 za programerski kalkulator" << endl;
+        cout <<"Odaberite broj 1 za matematicki kalkulator" << endl;
+        cout <<"Odaberite broj 2 za programerski kalkulator" << endl;
         cout << "\n" << endl;
         cout << "Odabir: ";
 
